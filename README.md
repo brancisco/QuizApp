@@ -29,5 +29,31 @@ A proof of concept quiz app. Made using the CakePHP framework.
 	+ **One row of images for view ports over 800px. Two rows of images for smaller than 800px viewport**.
 
 	+ **Add images via _Add Question_ button. Image URLs are optional**.
-=======
+
+---
+
+## Demo Images
+
+Quiz with a wide viewport.
+
+![Quiz wide viewport](./graphics/Quiz.png)
+
+Quiz with a narrow viewport. Scrolled to bottom with add question link. Example of only using two (of the four url options) images for a question.
+
+![Quiz narrow viewport](./graphics/Quiz2.png)
+
+Add page with narrow viewport.
+
+![Quiz add narrow](./graphics/QuizAdd.png)
+
+Add page with wide viewport.
+
+![Quiz add wide viewport](./graphics/QuizAdd2.png)
+
+
+
+
+
+
+
 
