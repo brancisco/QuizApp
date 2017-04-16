@@ -1,4 +1,6 @@
-# QuizApp for Act Innovate
+# QuizApp
+
+A proof of concept quiz app. Made using the CakePHP framework.
 
 1. Install an *AMP server. This is a free, self-contained local hosting environment that packages up an Apache web server, MySQL database and PHP in a single downloadable package.You can get it here: http://ampps.com/
 
@@ -27,3 +29,5 @@
 	+ **One row of images for view ports over 800px. Two rows of images for smaller than 800px viewport**.
 
 	+ **Add images via _Add Question_ button. Image URLs are optional**.
+=======
+
