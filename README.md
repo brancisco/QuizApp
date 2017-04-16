@@ -53,7 +53,3 @@ Add page with wide viewport.
 
 
 
-
-
-
-
