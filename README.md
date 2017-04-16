@@ -29,5 +29,4 @@ A proof of concept quiz app. Made using the CakePHP framework.
 	+ **One row of images for view ports over 800px. Two rows of images for smaller than 800px viewport**.
 
 	+ **Add images via _Add Question_ button. Image URLs are optional**.
-=======
 
